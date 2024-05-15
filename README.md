@@ -6,15 +6,15 @@
 
 Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bIvdzbg5PDoQSr7ugv32wQtcKUiNaBiPt2RSzHwNRtA/edit?usp=sharing)
 
-Your team: group number ❔
+Your team: group number 2
 
-  - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: (Lahbib ALLALI 'LahbibAll') 
 
-  - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: (Rouqaya ES-SARRAR 'rouqaya208') 
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: (Adam EL AMAOUI 'Adam-EL-AMAOUI') 
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: (Abir HARRASSE 'Abir196')
 
 ## Getting Started
 
